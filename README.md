@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o Aslan Rose (Alan) 👋
 
-<!--
-**AslanRoseDev/AslanRoseDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário UniFatecie, em transição para a área de Tecnologia com foco em **Quality Assurance (QA)** e **Desenvolvimento de Software**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+- 📍 Baseado em **Fortaleza, Ceará, Brasil**.
+- 💼 Atualmente atuando na área da saúde (Kora Saúde), aplicando controle de qualidade, otimização de rotinas e processos.
+- 🎓 Unindo mais de 8 anos de bagagem profissional em **Logística, Backoffice e Atendimento** com foco em garantia da qualidade e prevenção de falhas em software.
+- 🎯 Buscando oportunidades de estágio e posições Júnior em **QA / Testes de Software** ou **Desenvolvimento**.
+
+---
+
+### 📬 Vamos nos conectar?
+- **LinkedIn:** [Aslan Rose](https://www.linkedin.com/in/aslanrose/)
+- **E-mail:** [aslan.rose.dev@gmail.com](mailto:aslan.rose.dev@gmail.com)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+*(Em breve colocaremos as badges visuais das linguagens, ferramentas e softwares que você está aprendendo/usando!)*
