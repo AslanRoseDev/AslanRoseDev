@@ -1,14 +1,13 @@
 # Olá, eu sou o Aslan Rose (Alan) 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário UniFatecie, em transição para a área de Tecnologia com foco em **Quality Assurance (QA)** e **Desenvolvimento de Software**.
+Atualmente graduando em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário UniFatecie, focado em **Quality Assurance (QA)** e **Desenvolvimento de Software**.
 
 ---
 
 ### 🚀 Sobre Mim
-- 📍 Localizado em **Fortaleza, Ceará, Brasil**.
-- 💼 Atualmente atuando na área da saúde (Kora Saúde), aplicando controle de qualidade, otimização de rotinas e processos.
-- 🎓 Unindo mais de 8 anos de bagagem profissional em **Logística, Backoffice e Atendimento** com foco em garantia da qualidade e prevenção de falhas em software.
-- 🎯 Buscando oportunidades de estágio e posições Júnior em **QA / Testes de Software** ou **Desenvolvimento**.
+- 📍 Baseado em **Fortaleza, Ceará, Brasil**.
+- 🎓 Unindo mais de 8 anos de bagagem profissional em **Logística, Backoffice e Atendimento ao Cliente** com foco em prevenção de falhas, otimização de processos e garantia da qualidade de software.
+- 🎯 Buscando oportunidades de estágio ou posições de nível inicial (Júnior) em **QA / Testes de Software** ou **Desenvolvimento**.
 
 ---
 
@@ -18,5 +17,3 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-*(Em breve colocaremos as badges visuais das linguagens, ferramentas e softwares que você está aprendendo/usando!)*
