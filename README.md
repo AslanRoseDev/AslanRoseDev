@@ -5,7 +5,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no Centro Universitário
 ---
 
 ### 🚀 Sobre Mim
-- 📍 Baseado em **Fortaleza, Ceará, Brasil**.
+- 📍 Localizado em **Fortaleza, Ceará, Brasil**.
 - 💼 Atualmente atuando na área da saúde (Kora Saúde), aplicando controle de qualidade, otimização de rotinas e processos.
 - 🎓 Unindo mais de 8 anos de bagagem profissional em **Logística, Backoffice e Atendimento** com foco em garantia da qualidade e prevenção de falhas em software.
 - 🎯 Buscando oportunidades de estágio e posições Júnior em **QA / Testes de Software** ou **Desenvolvimento**.
